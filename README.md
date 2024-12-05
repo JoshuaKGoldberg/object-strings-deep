@@ -24,7 +24,7 @@ npm i object-strings-deep
 ```ts
 import { getObjectStringsDeep } from "object-strings-deep";
 
-// ["abc", "def", "ghi]
+// ["abc", "def", "ghi"]
 getObjectStringsDeep(["abc", { def: ["ghi"] }]);
 ```
 
