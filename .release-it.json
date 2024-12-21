@@ -11,6 +11,7 @@
 	"npm": { "publishArgs": ["--access public", "--provenance"] },
 	"plugins": {
 		"@release-it/conventional-changelog": {
+			"heading": "# Changelog",
 			"infile": "CHANGELOG.md",
 			"preset": "angular"
 		}
