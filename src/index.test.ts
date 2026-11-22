@@ -1,8 +1,8 @@
 import { describe, expect, it } from "vitest";
 
-import { getObjectStringsDeep } from "./index.js";
+import { getObjectStringsDeep } from "./index.ts";
 
-describe("getObjectStringsDeep", () => {
+describe(getObjectStringsDeep, () => {
 	it.each([
 		[null, []],
 		[undefined, []],
