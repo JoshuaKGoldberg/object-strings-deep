@@ -1,6 +1,6 @@
 {
 	"name": "object-strings-deep",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"description": "Retrieves all strings with an object, including keys, properties, recursive objects, and within arrays. 🧵",
 	"repository": {
 		"type": "git",

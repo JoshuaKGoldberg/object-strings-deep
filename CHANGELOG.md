@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.3](https://github.com/JoshuaKGoldberg/object-strings-deep/compare/0.1.2...0.1.3) (2026-11-24)
+
+### Bug Fixes
+
+- bump to create-typescript-app@2.87.18 ([#431](https://github.com/JoshuaKGoldberg/object-strings-deep/issues/431)) ([3404fc9](https://github.com/JoshuaKGoldberg/object-strings-deep/commit/3404fc96133e02611f1c770e33645f5218961564)), closes [#430](https://github.com/JoshuaKGoldberg/object-strings-deep/issues/430)
+
 ## [0.1.2](https://github.com/JoshuaKGoldberg/object-strings-deep/compare/0.1.1...0.1.2) (2025-04-04)
 
 ### Bug Fixes
